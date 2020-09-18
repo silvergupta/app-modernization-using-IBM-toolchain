@@ -1,4 +1,4 @@
  applications:
- - name: cloudnativeapp901
+ - name: cloudnativeapptest1
    random-route: true
    memory: 128M
